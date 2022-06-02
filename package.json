@@ -1,0 +1,28 @@
+{
+  "name": "simple-crud-app-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolourr/Simple-Crud-App-Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolourr/Simple-Crud-App-Tutorial/issues"
+  },
+  "homepage": "https://github.com/kolourr/Simple-Crud-App-Tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongodb": "^4.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
